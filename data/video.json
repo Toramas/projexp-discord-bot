@@ -1,0 +1,27 @@
+{
+    "doom": {
+        "key": "doom",
+        "desc": "A doom medley of the slayer testament",
+        "link": "https://youtu.be/EIK-jg6Uo_I"
+    },
+    "persona": {
+        "key": "persona",
+        "desc": "'Life will change' from the Persona 5 OST",
+        "link": "https://youtu.be/CGwH6rZk7VM"
+    },
+    "diversion": {
+        "key": "diversion",
+        "desc": "The diversion dance from the Henry Stickmin Collection",
+        "link": "https://youtu.be/XP_ZivuN6iY"
+    },
+    "yoshi": {
+        "key": "yoshi",
+        "desc": "Yoshi.mp4",
+        "link": "https://youtu.be/q5-cZIpldFk"
+    },
+    "oversleep": {
+        "key": "oversleep",
+        "desc": "Chop Suey but you overslept",
+        "link": "https://youtu.be/7vObEK3Lbp4"
+    }
+}
